@@ -10,3 +10,4 @@ unittest2==1.1.0
 requests==2.25.1
 email_validator==1.1.2
 Jinja2==3.0.3
+Werkzeug==2.0.0
